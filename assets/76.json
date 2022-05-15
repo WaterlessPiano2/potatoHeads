@@ -1,0 +1,42 @@
+{
+  "name": "Mo Solah #76",
+  "symbol": "PP",
+  "description": "Mo Solah-na, Mo Problemos...",
+  "seller_fee_basis_points": 2500,
+  "image": "76.png",
+  "external_url": "mosolah.com",
+  "edition": 76,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellhite"
+    },
+    {
+      "trait_type": "Color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "happy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "balding"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "76.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "dC3CTsSDtfp9yoDbBoAMExn6yHeTpLEp7Fk12n7oVhw",
+        "share": 100
+      }
+    ]
+  }
+}
